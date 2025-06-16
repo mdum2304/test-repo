@@ -1,2 +1,2 @@
 # test-repo
-This is a test repo to practice using GitHub
+This is a test repo to practice using GitHub, this will be updated using all of the features that can be used via git.
